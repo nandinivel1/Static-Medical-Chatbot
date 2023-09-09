@@ -1,4 +1,6 @@
-![image](https://github.com/nandinivel1/Static-Medical-Chatbot/assets/89859376/2dacbe91-cafa-400d-a6d2-d555f9362a2e)
+![image](https://github.com/nandinivel1/Static-Medical-Chatbot/assets/89859376/ea87b674-900e-44e2-9807-e0e1de86f3ad)
+
+
 
 The "Static Medical Chatbot using Flask" is aimed at developing a user-friendly medical assistance system, providing instant access to reliable medical information and support. 
 The chatbot utilizes the Flask web framework to create an intuitive and accessible web interface, facilitating seamless interactions with users seeking medical guidance.
